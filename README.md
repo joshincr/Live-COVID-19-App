@@ -1,6 +1,5 @@
 ![Screenshot (112)](https://user-images.githubusercontent.com/78969613/116453620-b883f980-a87c-11eb-8661-3e58d4c77fe6.png)
 # Live COVID-19 Web App 
-Developed a Live Web Application to track the COVID-19 statistics worldwide by integrating API's that throw JSON response of the data. The project was implemented on Python Django using Django Rest Framework, HTML , CSS and Bootstrap.
  
 _This project is still under development and ought to be improved in future_
 
